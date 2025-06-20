@@ -1,0 +1,3 @@
+C:\Users\student\Documents\205\tomshin\sfg\sfg\x64\Debug\sfg.vcxproj.AssemblyReference.cache
+C:\Users\student\Documents\205\tomshin\sfg\sfg\x64\Debug\sfg.MyForm.resources
+C:\Users\student\Documents\205\tomshin\sfg\sfg\x64\Debug\sfg.vcxproj.GenerateResource.cache

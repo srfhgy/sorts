@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\student\Documents\205\tomshin\sfg\sfg\MyForm.h(296,22): warning C4244: =: преобразование "wchar_t" в "char", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  sfg.vcxproj -> C:\Users\student\Documents\205\tomshin\sfg\x64\Debug\sfg.exe
